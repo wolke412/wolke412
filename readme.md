@@ -6,6 +6,8 @@ Currently I work as a Fullstack webdeveloper for a small company, in Brazil.
 
 I love PHP.
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=wolke412&show_icons=true&theme=tokyonight)  **<-- 'C' stands for "Cool".**
+
 ## 🛠️  My work Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
