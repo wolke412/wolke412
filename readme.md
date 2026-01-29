@@ -1,6 +1,8 @@
 
 #  The numbers, Mason! Why do they keep appearing?
 
+![Banner](./LINKEDINBANNER.png)
+
 Hello! I'm Wolke! I love using math to compute stupid things that makes me look smart.  \
 Currently I work as a Fullstack webdeveloper for a small company, in Brazil.
 
