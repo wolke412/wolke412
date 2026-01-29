@@ -1,12 +1,15 @@
 
 #  The numbers, Mason! Why do they keep appearing?
 
-![Banner](./LINKEDINBANNER.png)
+![Banner](./GITHUB_BANNER.png)
 
-Hello! I'm Wolke! I love using math to compute stupid things that makes me look smart.  \
-Currently I work as a Fullstack webdeveloper for a small company, in Brazil.
+Hello! I’m Wolke.
 
-I love PHP.
+I like using **math** to compute questionable solutions to problems no one asked for — it keeps things interesting and sometimes makes me look smart.
+
+I’m currently a Full-Stack Web Developer at a small company based in Brazil.
+
+I Love PHP! 💜
 
 ## 🛠️  My work Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
